@@ -6,6 +6,6 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  outputDir: 'docs',
-  publicPath: './'
+  publicPath: '/test2', //リポジトリ名
+  outputDir: 'docs' //docs
 }
